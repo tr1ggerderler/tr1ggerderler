@@ -1,27 +1,27 @@
-# Merhaba, ben triggerderler! 👋
+# Hello, I'm triggerderler! 👋
 
-**Yazılım Geliştirici | FiveM Modlama Uzmanı | Açık Kaynak Meraklısı**
+**Software Developer | FiveM Modding Expert | Open Source Enthusiast**
 
 ---
 
-### 🚀 Hakkımda
-Merhaba! Yazılım geliştirmede yenilikçi çözümler üreten ve özellikle FiveM, Discord botları ve açık kaynak projeleri üzerine yoğunlaşan bir geliştiriciyim. En son projelerim, topluluklara yönelik özelleştirilmiş sistemler ve etkileşimli içeriklerle dolu!
+### 🚀 About Me
+Hello! I'm a developer creating innovative solutions in software development, focusing particularly on FiveM, Discord bots, and open-source projects. My latest projects are packed with customized systems and interactive content for communities!
 
-### 🛠️ Teknik Bilgilerim
-- **Diller:** JavaScript, Lua, Python
-- **Özel İlgi Alanları:** QBCore tabanlı sunucular, özelleştirilmiş oyun içi etkinlikler, FPS optimizasyonu
-- **Projeler:** FiveM Sunucuları, Discord Botları, Oyun İçi Arayüzler
+### 🛠️ My Technical Skills
+- **Languages:** JavaScript, Lua, Python
+- **Special Interests:** QBCore-based servers, custom in-game events, FPS optimization
+- **Projects:** FiveM Servers, Discord Bots, In-Game Interfaces
 
-### 🌱 Şu anda öğreniyorum...
-Şu sıralar yazılım projelerimi daha verimli ve kullanıcı dostu hale getirecek yöntemler üzerine yoğunlaşmaktayım.
+### 🌱 Currently Learning...
+I'm currently exploring ways to make my software projects more efficient and user-friendly.
 
-### 📫 Bana Ulaşın
+### 📫 Contact Me
 - **GitHub:** [triggerderler](https://github.com/tr1ggerderler)
 - **Discord:** triggerderler
 
-### 💡 İlginç Bilgi
-Ayrıntılara dikkat eden biriyim ve özellikle yüksek performanslı ve optimize edilmiş projeler geliştirmeye önem veriyorum. 😊
+### 💡 Fun Fact
+I'm detail-oriented and especially passionate about developing high-performance, optimized projects. 😊
 
 ---
 
-Profilime göz atarak projelerimi inceleyebilir ve katkıda bulunabilirsiniz! 👍
+Feel free to check out my profile, explore my projects, and contribute! 👍
