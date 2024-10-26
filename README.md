@@ -1,27 +1,27 @@
-# Hello, I'm triggerderler! 👋
+# Hello, I'm generally known as triggerderler! 👋 👋
 
-**Software Developer | FiveM Modding Expert | Open Source Enthusiast**
+**Software Developer | FiveM Modding | Open Source Systems**
 
 ---
 
 ### 🚀 About Me
-Hello! I'm a developer creating innovative solutions in software development, focusing particularly on FiveM, Discord bots, and open-source projects. My latest projects are packed with customized systems and interactive content for communities!
+Hello! I'm a software developer who loves working on FiveM, Discord bots, and open-source projects. I focus on creating simple and functional systems for communities in my projects.
 
 ### 🛠️ My Technical Skills
 - **Languages:** JavaScript, Lua, Python
-- **Special Interests:** QBCore-based servers, custom in-game events, FPS optimization
+- **Interests:** QBCore-based servers, in-game events, FPS optimization
 - **Projects:** FiveM Servers, Discord Bots, In-Game Interfaces
 
-### 🌱 Currently Learning...
-I'm currently exploring ways to make my software projects more efficient and user-friendly.
+### 🌱 Currently...
+I'm learning new things and working on building more efficient and user-friendly projects.
 
 ### 📫 Contact Me
 - **GitHub:** [triggerderler](https://github.com/tr1ggerderler)
 - **Discord:** triggerderler
 
-### 💡 Fun Fact
-I'm detail-oriented and especially passionate about developing high-performance, optimized projects. 😊
+### 💡 A Fun Fact
+I pay close attention to detail and prioritize clean, understandable code.
 
 ---
 
-Feel free to check out my profile, explore my projects, and contribute! 👍
+Feel free to check out my profile or contribute to my projects. 👍
